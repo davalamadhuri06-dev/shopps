@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase - Modern E-Commerce Experience",
+  "description": "A modern, attractive, fully responsive e-commerce shopping platform with curated collections, dynamic product catalogs, seamless checkout, wishlist, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
